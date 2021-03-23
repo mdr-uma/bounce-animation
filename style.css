@@ -16,6 +16,36 @@ body{
     left: 15%;
     animation: high-bounce 1s infinite;
 }
+#orange {
+    background: orange;
+    left: 25%;
+    animation: medium-bounce 1s infinite;
+}
+#yellow {
+    background: yellow;
+    left: 35%;
+    animation: low-bounce 1s infinite;
+}
+#blue {
+    background: blue;
+    left: 45%;
+    animation: high-bounce 1s infinite;
+}
+#green {
+    background: green;
+    left: 55%;
+    animation: low-bounce 1s infinite;
+}
+#purple {
+    background: purple;
+    left: 65%;
+    animation: medium-bounce 1s infinite;
+}
+#pink {
+    background: pink;
+    left: 75%;
+    animation: high-bounce 1s infinite;
+}
 
 @keyframes high-bounce {
     0% {
