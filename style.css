@@ -17,5 +17,17 @@ body{
     animation: high-bounce 1s infinite;
 }
 
+@keyframes high-bounce {
+    0% {
+        top: 0;
+    }
+    50% {
+        top: 15rem;
+    }
+    100% {
+        top: 0;
+    }
+}
+
 
 
