@@ -3,6 +3,19 @@ body{
     background: lavender;
 }
 
+.balls {
+    width: 6.25rem;
+    height: 6.25rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    position: fixed;
+}
+
+#red {
+    background: red;
+    left: 15%;
+    animation: high-bounce 1s infinite;
+}
 
 
 
